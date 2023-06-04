@@ -1,0 +1,15 @@
+C:\Users\juni\Desktop\test\C-example\bin\Debug\net7.0\C-example.exe
+C:\Users\juni\Desktop\test\C-example\bin\Debug\net7.0\C-example.deps.json
+C:\Users\juni\Desktop\test\C-example\bin\Debug\net7.0\C-example.runtimeconfig.json
+C:\Users\juni\Desktop\test\C-example\bin\Debug\net7.0\C-example.dll
+C:\Users\juni\Desktop\test\C-example\bin\Debug\net7.0\C-example.pdb
+C:\Users\juni\Desktop\test\C-example\obj\Debug\net7.0\C-example.csproj.AssemblyReference.cache
+C:\Users\juni\Desktop\test\C-example\obj\Debug\net7.0\C-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juni\Desktop\test\C-example\obj\Debug\net7.0\C-example.AssemblyInfoInputs.cache
+C:\Users\juni\Desktop\test\C-example\obj\Debug\net7.0\C-example.AssemblyInfo.cs
+C:\Users\juni\Desktop\test\C-example\obj\Debug\net7.0\C-example.csproj.CoreCompileInputs.cache
+C:\Users\juni\Desktop\test\C-example\obj\Debug\net7.0\C-example.dll
+C:\Users\juni\Desktop\test\C-example\obj\Debug\net7.0\refint\C-example.dll
+C:\Users\juni\Desktop\test\C-example\obj\Debug\net7.0\C-example.pdb
+C:\Users\juni\Desktop\test\C-example\obj\Debug\net7.0\C-example.genruntimeconfig.cache
+C:\Users\juni\Desktop\test\C-example\obj\Debug\net7.0\ref\C-example.dll
